@@ -1,0 +1,12 @@
+name: buffelgrass_v2
+title:
+username: travismatlock
+account: travismatlock
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11513942
+bundleId: 8392869
+url: https://travismatlock.shinyapps.io/buffelgrass_v2/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
